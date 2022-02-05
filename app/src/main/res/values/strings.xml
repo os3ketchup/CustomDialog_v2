@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomDialog_v2</string>
+    <string name="textTitle">\tQuyidagi mobil ilova dizaynini tashkil qiling. Bunda navigation orqali fragmentlar o\'tishini ta\'minlang. Ma\'lumotlar statik holatda listda bo\'lishi kerak. Custom dialogni o\'zidek qilib yarating. Faqat dizaynga ko\'proq e\'tibor berilsin. Animatsiyalar qo\'shilsa juda ham zo\'r</string>
+</resources>
